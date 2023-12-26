@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Pacifico&family=Poppins:wght@200;400;500&family=Raleway&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(115, 239, 140);
+    background: radial-gradient(circle, rgb(245, 240, 242) 0%, rgba(148,187,233,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #090909;
+    font-weight: 900 ;
+    font-family: 'Pacifico', cursive;
+}
+    
